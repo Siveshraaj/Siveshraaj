@@ -2,7 +2,8 @@
 
 # Python program to print positive Numbers in given range
  
-start, end = -14, -7, 5,12,64
+start, end = 12,-7,5,64,-14
+
 
 for num in range(start, end + 1):
      
